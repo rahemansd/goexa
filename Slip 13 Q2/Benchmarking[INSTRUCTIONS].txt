@@ -1,0 +1,3 @@
+Save the go program file by program_name_test.go  ( _test.go  at the end)
+Make sure it contains the Benchmark_function_name() 
+to run -> go test -bench=.

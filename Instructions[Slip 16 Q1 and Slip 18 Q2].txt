@@ -1,0 +1,7 @@
+First Run this command in terminal: go mod init GOLang
+
+Then Copy the 'rect' and 'calc' folder to a new directory(ex: demo)
+In this new directory copy the slip files also (slip 16 and slip 18  q1 and q2 both)
+
+Now in terminal type: cd demo/
+run the program by go run program_name.go
